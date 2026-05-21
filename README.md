@@ -1,4 +1,4 @@
-# @perttu/app-store-scraper
+This is a fork of @perttu/app-store-scraper to use updated dependencies to avoid security vulnerabilities. It comes with no warranty. Test it with your own code.
 
 Modern TypeScript library to scrape application data from the iTunes/Mac App Store.
 
